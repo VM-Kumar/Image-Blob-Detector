@@ -1,7 +1,4 @@
-%TeamMembers
-%MUTHU KUMAR VENKATESH:mvenkat3@ncsu.edu - 200318930
-%SANJANA BANERJEE:sbaner24@ncsu.edu - 200316758
-%KARTHIKA VADIVEL:kvadive@ncsu.edu -200322198
+
 clc;
 clear all;
 close all;
