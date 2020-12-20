@@ -1,4 +1,4 @@
-**Title**:Image Blob Detection\
+#Image Blob Detection
 **Goal**:To detect circular blobs in images which are regions which have similar features with respect to pixel intensity.\
 The content is organized as follows:\
 1. description_report.pdf -> detailed report of the project and code
