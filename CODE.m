@@ -4,7 +4,8 @@ clear all;
 close all;
 
 %Reading the image for detection of blobs
-image=imread('D:\DIS\PROJECT4\Project04_Final\Project04\TestImages\butterfly.jpg');
+%change path to path of one image used
+image=imread('......butterfly.jpg');
 %to obtain program run time
 tic;
 %converting image to greyscale and double
